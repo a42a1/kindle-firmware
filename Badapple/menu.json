@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "name": "Badapple",
+      "priority": 1,
+      "items": [
+        {
+          "name": "0 ms",
+          "priority": 1,
+          "action": "/mnt/us/extensions/Badapple/play.sh 0",
+          "exitmenu": true
+        },
+        {
+          "name": "10 ms",
+          "priority": 2,
+          "action": "/mnt/us/extensions/Badapple/play.sh 10",
+          "exitmenu": true
+        },
+        {
+          "name": "20 ms",
+          "priority": 3,
+          "action": "/mnt/us/extensions/Badapple/play.sh 20",
+          "exitmenu": true
+        },
+        {
+          "name": "30 ms",
+          "priority": 4,
+          "action": "/mnt/us/extensions/Badapple/play.sh 30",
+          "exitmenu": true
+        },
+        {
+          "name": "40 ms",
+          "priority": 5,
+          "action": "/mnt/us/extensions/Badapple/play.sh 40",
+          "exitmenu": true
+        },
+        {
+          "name": "50 ms",
+          "priority": 6,
+          "action": "/mnt/us/extensions/Badapple/play.sh 50",
+          "exitmenu": true
+        },
+        {
+          "name": "100 ms",
+          "priority": 7,
+          "action": "/mnt/us/extensions/Badapple/play.sh 100",
+          "exitmenu": true
+        },
+        {
+          "name": "150 ms",
+          "priority": 8,
+          "action": "/mnt/us/extensions/Badapple/play.sh 150",
+          "exitmenu": true
+        },
+        {
+          "name": "200 ms",
+          "priority": 9,
+          "action": "/mnt/us/extensions/Badapple/play.sh 200",
+          "exitmenu": true
+        },
+        {
+          "name": "250 ms",
+          "priority": 10,
+          "action": "/mnt/us/extensions/Badapple/play.sh 250",
+          "exitmenu": true
+        },
+        {
+          "name": "300 ms",
+          "priority": 11,
+          "action": "/mnt/us/extensions/Badapple/play.sh 300",
+          "exitmenu": true
+        },
+        {
+          "name": "350 ms",
+          "priority": 12,
+          "action": "/mnt/us/extensions/Badapple/play.sh 350",
+          "exitmenu": true
+        },
+        {
+          "name": "400 ms",
+          "priority": 13,
+          "action": "/mnt/us/extensions/Badapple/play.sh 400",
+          "exitmenu": true
+        },
+        {
+          "name": "450 ms",
+          "priority": 14,
+          "action": "/mnt/us/extensions/Badapple/play.sh 450",
+          "exitmenu": true
+        },
+        {
+          "name": "500 ms",
+          "priority": 15,
+          "action": "/mnt/us/extensions/Badapple/play.sh 500",
+          "exitmenu": true
+        }
+      ]
+    }
+  ]
+}

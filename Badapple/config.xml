@@ -1,0 +1,12 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<extension>
+	<information>
+		<name>Badapple</name>
+		<version>1.0.0</version>
+		<author>SHIWAI</author>
+		<id>Badapple</id>
+	</information>
+	<menus>
+		<menu type="json" dynamic="true">menu.json</menu>
+	</menus>
+</extension>

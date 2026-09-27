@@ -1,0 +1,16 @@
+{
+	"items": [
+	   {
+		 "name": "Gnome Games (Gtk2)",
+		 "priority": 1,
+		 "items": [
+		   { "name": "Gnome Chess", "action": "bin/gnomegames.sh", "params": "glchess" },
+		   { "name": "Gnome Mines", "action": "bin/gnomegames.sh", "params": "gnomine" },
+		   { 
+			"name": "copy game shortcuts to the Library",
+			"if": "\"/lib/ld-linux-armhf.so.3\" -f",
+			"action": "/bin/cp -a shortcut_* /mnt/us/documents/" }
+		 ]
+	   }
+	]
+}
